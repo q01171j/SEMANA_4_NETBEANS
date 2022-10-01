@@ -12,6 +12,8 @@ import java.util.Scanner;
  *
  * @author Adriano
  */
+
+/* EJERCICIO: MATRIZ DE 10X1O INGRESADO POR TECLADO SUME LA DIAGONAL PRIMARIA Y SECUNDARIA */
 public class ejercicio_1 {
     public static void main(String[] args) {
         //variables

@@ -11,6 +11,7 @@ import java.util.Scanner;
  *
  * @author Adriano
  */
+/* EJERCICIO: MATRIZ DE 10X1O INGRESADO POR TECLADO QUE SUME TODAS LA COLUMNAS PARES DE LA MATRIZ */
 public class ejercicio_6 {
     public static void main(String[] args) {
         //VARIABLES
