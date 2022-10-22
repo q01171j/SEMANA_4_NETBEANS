@@ -11,4 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.estructura_datos_sem3v2.Estructura_datos_sem3v2</exec.mainClass>
     </properties>
+    <name>estructura_datos_sem4</name>
 </project>
